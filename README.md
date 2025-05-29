@@ -1,44 +1,57 @@
 
 # Relatório Controle Enriquecimento– 
 
-Com o proposito de mesurar os resultados operacional por diferentes meios operacional e digital além de trazer os inicadores das bases mensais que o cliente manda
+Com o proposito de mesurar a qualidade dos telefones retornados que foram enviado para os fornecedores de enriquecimento  
 Dashboard bem completo com funil, tabelas e com indicadores precisos 
 
 
 
 ## 📄 Capa - Menu inicial
-[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Gerencial-Itau/refs/heads/main/Gerencial%20Ita%C3%BA%20-%20img1.png)](https://www.itau.com.br)
+[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Controle-Enriquecimento/refs/heads/main/Controle%20Enriquecimento%20-%20img1-1.png)](https://www.itau.com.br)
 
 Menu separado por
-- Paines : Mensura a base do mês
-- Operacioanl : Mensura o resultado Operacional
-- Digital : Mensura o resultado pelos canais digitais
+- Envio : Mesura os volumes dos registros enviado
+- Retorno Telefone : Mensura o volume de retorno e qualidade dos telefones
+- Retorno Email : Mensura o volume de retorno e qualidade dos emails
 
   
 
 
 
-## 📄 BSC - Mesuração da base PJ
-[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Gerencial-Itau/refs/heads/main/Gerencial%20Ita%C3%BA%20-%20img2-1.png)](https://www.itau.com.br)
+## 📄 DashBoard Envio - Mesura os volumes dos registros enviado
+[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Controle-Enriquecimento/refs/heads/main/Controle%20Enriquecimento%20-%20img2-1.png)](https://www.itau.com.br)
 
-- Indicadores : Prioridade,esforço,alo,cpc,promessa e pagamento
-- Comparativo : Mês Atual Vs Mes Anterior - Mês vs Base
-
-
-
+- Indicadores : Volume Telefone e Email
+- Segmento : Fornecedor e Carteira
+- Funcionalidade : Botão que alterna a visão Fornecedor e carteira
 
 
-## 📄 BSC - Mesuração da base Colchão
-[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Gerencial-Itau/refs/heads/main/Gerencial%20Ita%C3%BA%20-%20img3-1.png)](https://www.itau.com.br)
-
-- Indicadores : Prioridade,esforço,alo,cpc,promessa e pagamento
-- Colchão : Base, em dia, pago, quebra
 
 
+
+## 📄 DashBoard Retorno Envio -  Mensura o volume de retorno e qualidade dos telefones
+### Bloco 1 :   Retorno que foi importado no CRM
+[![Relatório Gerencial - Maio]( https://raw.githubusercontent.com/rasta-slaine/DashBoard---Controle-Enriquecimento/refs/heads/main/Controle%20Enriquecimento%20-%20img3-1.png)](https://www.itau.com.br)
+
+- Indicadores : Registros importados, telefones, celulares, fixos, lotes enviados
+- Segmento : Fornecedor e Carteira
+- Funcionalidade : Botão que alterna a visão Fornecedor e carteira
+
+### Bloco 2 :   Retorno que foi para o Discador
+[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Controle-Enriquecimento/refs/heads/main/Controle%20Enriquecimento%20-%20img3-2.png)](https://www.itau.com.br)
+
+[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Controle-Enriquecimento/refs/heads/main/Controle%20Enriquecimento%20-%20img3-3.png)](https://www.itau.com.br)
+
+- Indicadores : Totais Telefones, Tentativas,Alo,Cpc,Desconhece,Não Atende,BadNumber, Caixa Postal e percentuais de cada um
+- Segmento : Fornecedor e Carteira
+- Funcionalidade : Botão que alterna a visão Fornecedor e carteira
+
+### Bloco 3 :   Resumo por Analitico dia 
+[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Controle-Enriquecimento/refs/heads/main/Controle%20Enriquecimento%20-%20img3-4.png)
+
+- Indicadores : Totais Telefones, Tentativas,Alo,Cpc,Desconhece,Não Atende,BadNumber, Caixa Postal e percentuais de cada um
+- Segmento : Fornecedor e Carteira
+- Funcionalidade : Botão que alterna a visão Fornecedor e carteira
 
   
 
-## 📄 Jornada Portal - Mesuração Operacional e Canal Digital
-[![Relatório Gerencial - Maio](https://raw.githubusercontent.com/rasta-slaine/DashBoard---Gerencial-Itau/refs/heads/main/Gerencial%20Ita%C3%BA%20-%20img4-1.png)](https://www.itau.com.br)
-
-- Indicadores : Prioridade,esforço,alo,cpc,promessa e pagamento
